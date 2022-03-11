@@ -7,7 +7,7 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym) -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nishilfaldu.nishilfaldu)
+### Glad to see you here! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nishilfaldu.visitor_badge)
 
 I am a student of Computer Science at University of Cincinnati. I love programming, reading, traveling, and cafe-exploring.
 
