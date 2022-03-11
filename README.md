@@ -24,7 +24,7 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 <!-- - 📝 I regulary write articles on [medium](https://nishil-faldu.medium.com); -->
 - 📫 How to reach me: faldund@outlook.com;
 - 😄 Pronouns: he/him/his;
-- ⚡ Fun fact: I have visited 15 coffee shops in Cincinnati, OH;
+- ⚡ Fun fact: I have visited 15 coffee shops in Cincinnati;
 - 📝 [Resume](https://www.linkedin.com/in/nishil-faldu/).
 
 </br>
