@@ -28,8 +28,8 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 - 📝 [Resume](https://www.linkedin.com/in/nishil-faldu/).
 
 </br>
-
-📊 **This Week I Spent My Time On:**
+ 
+<!-- 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
