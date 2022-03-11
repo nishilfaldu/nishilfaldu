@@ -21,7 +21,6 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 - 👨🏻‍💻 I’m currently brainstorming on a cool project idea;
 - 🚀 I’m currently learning Data Structures and Algorithms on [AlgoExpert](https://www.algoexpert.io/product);
 - 💬 Ask me about anything, I am happy to help;
-<!-- - 📝 I regulary write articles on [medium](https://nishil-faldu.medium.com); -->
 - 📫 How to reach me: faldund@outlook.com;
 - 😄 Pronouns: he/him/his;
 - ⚡ Fun fact: I have visited 15 coffee shops in Cincinnati;
@@ -44,7 +43,7 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 
 
 
-
+<!-- - 📝 I regulary write articles on [medium](https://nishil-faldu.medium.com); -->
 
 <!--
 **nishilfaldu/nishilfaldu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
