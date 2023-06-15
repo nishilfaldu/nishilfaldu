@@ -19,7 +19,7 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently brainstorming on a cool project idea;
-- 🚀 I’m currently learning Data Structures and Algorithms on [AlgoExpert](https://www.algoexpert.io/product);
+- 🚀 I’m currently working as a Software Engineer at [Kinetic Vision](https://kinetic-vision.com);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: faldund@outlook.com;
 - 😄 Pronouns: he/him/his;
