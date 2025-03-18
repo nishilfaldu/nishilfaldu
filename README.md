@@ -23,7 +23,7 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 - 📫 How to reach me: nishil@7west.space;
 - 😄 Pronouns: he/him/his;
 - ⚡ Fun fact: I have visited 15 coffee shops in Cincinnati;
-- 📝 [Resume](https://www.linkedin.com/in/nishil-faldu/).
+- 📝 [Resume](https://www.linkedin.com/in/nishilfaldu/).
 
 </br>
 </br>
