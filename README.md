@@ -18,10 +18,9 @@ As a software engineering intern at Digital Scholarship Center, I enjoy using my
 
 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently brainstorming on a cool project idea;
-- 🚀 I’m currently working as a Software Engineer at [Kinetic Vision](https://kinetic-vision.com);
+- 🚀 I’m currently a Founder at [7WEST](https://7west.space);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: faldund@outlook.com;
+- 📫 How to reach me: nishil@7west.space;
 - 😄 Pronouns: he/him/his;
 - ⚡ Fun fact: I have visited 15 coffee shops in Cincinnati;
 - 📝 [Resume](https://www.linkedin.com/in/nishil-faldu/).
