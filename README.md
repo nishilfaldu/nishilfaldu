@@ -1,25 +1,27 @@
-## Hey, I’m Nishil Faldu 👋
+## Hey, I'm Nishil 👋
 
-I’m building **7WEST** - software for schools and universities (LMS + workflows) that feels modern, fast, and actually usable.
+Full-stack engineer. I build things fast, across the whole stack — mobile, web, backend, data.
 
-I ship product, talk to users, and repeat.
+Most recently: founding engineer at **7WEST**, where I shipped a React Native social platform to 500+ users across 15+ universities in 25 days, and a multi-tenant K-12 LMS to 6,000 accounts across 4 school pilots in under a month. Both from scratch. Both alone.
 
----
-
-### What I’m up to
-- 🚀 Founder at **7WEST**
-- 🧠 Currently focused on: school/university ops, LMS workflows, AI-assisted admin + communication
-- 🤝 Open to: partnerships with schools/universities, pilots, and meeting strong builders
+Before that: Tembo (hosted Postgres platform), Kinetic Vision (client apps, internal tooling, P&G ECRF), and a handful of earlier roles where I consistently picked up stacks I'd never touched and shipped in production.
 
 ---
 
-### Find me online
-- 🌐 Website: https://www.nishilfaldu.site  
-- 💼 LinkedIn: https://www.linkedin.com/in/nishilfaldu/  
-- 🐦 Twitter/X: https://twitter.com/FalduNishil  
-- 📷 Instagram: https://www.instagram.com/nishilfaldu/  
-- ✉️ Email: nishil@7west.space  
+### What I'm looking for
+
+Product engineer role at an organization where ownership is real and the pace is fast.
 
 ---
 
-If you’re a school/university team and want a quick walkthrough of what we’re building, just email me.
+### Stack I reach for
+
+TypeScript · React · React Native · Next.js · TanStack · Convex · Node.js · Python · Django · PostgreSQL · GraphQL · Expo · Cloudflare · AWS
+
+---
+
+### Find me
+
+🌐 [nishilfaldu.site](https://nishilfaldu.site) · 💼 [LinkedIn](https://linkedin.com/in/nishilfaldu) · ✉️ nishilfaldu@gmail.com
+
+Open to conversations — if you're building something interesting, just reach out.
