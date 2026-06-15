@@ -45,7 +45,7 @@ and B.S. in Computer Science (GPA 3.98).
 | [mcp-servers](https://github.com/nishilfaldu/mcp-servers) | A fleet of FastAPI tool servers (Canvas, Google Calendar, Outlook) that expose APIs as LLM-callable tools. |
 | [easy-rag](https://github.com/nishilfaldu/easy-rag) | A self-serve platform for deploying custom RAG assistants over databases and files. |
 | [expo-push-notifications](https://github.com/nishilfaldu/expo-push-notifications) | An open-source NPM package for Expo push notification registration and routing. |
-| [a-compiler-in-go](https://github.com/nishilfaldu/a-compiler-in-go) | A compiler for a custom language, written from scratch in Go. |
+| [cedar-lang](https://github.com/nishilfaldu/cedar-lang) | Cedar: a statically-typed language and its compiler, written from scratch in Go. |
 | [alterna-canvas](https://github.com/nishilfaldu/alterna-canvas) | A gamified Canvas LMS where keeping up with coursework grows a virtual garden. |
 | [coursework](https://github.com/nishilfaldu/coursework) | A curated, runnable collection of my CS coursework — security, devops, algorithms, data viz. |
 
