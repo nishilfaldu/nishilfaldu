@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishilfaldu.site-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://nishilfaldu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nishilfaldu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishilfaldu)
 [![X](https://img.shields.io/badge/X-@FalduNishil-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/FalduNishil)
-[![Email](https://img.shields.io/badge/Email-nishilfaldu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishilfaldu@gmail.com)
 
 I like picking up unfamiliar stacks and shipping them in production. Most of what
 I build starts from a blank repo and ends with real users — across founding
