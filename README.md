@@ -42,7 +42,7 @@ and B.S. in Computer Science (GPA 3.98).
 
 | Project | What it is |
 |---------|-----------|
-| [canvas-mcp](https://github.com/nishilfaldu/canvas-mcp) | A Model Context Protocol server that connects an LLM to a live Canvas LMS. |
+| [mcp-servers](https://github.com/nishilfaldu/mcp-servers) | A fleet of FastAPI tool servers (Canvas, Google Calendar, Outlook) that expose APIs as LLM-callable tools. |
 | [easy-rag](https://github.com/nishilfaldu/easy-rag) | A self-serve platform for deploying custom RAG assistants over databases and files. |
 | [expo-push-notifications](https://github.com/nishilfaldu/expo-push-notifications) | An open-source NPM package for Expo push notification registration and routing. |
 | [a-compiler-in-go](https://github.com/nishilfaldu/a-compiler-in-go) | A compiler for a custom language, written from scratch in Go. |
