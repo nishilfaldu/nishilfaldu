@@ -25,6 +25,7 @@ A product engineering role with ownership and a nice team.
 | **7WEST** | Founding Engineer | Built a multi-tenant K-12 academic operations platform and a React Native social app. Worked across both products, mostly solo. |
 | **Kinetic Vision** | Lead Full-Stack Engineer (Contract) | Owned the frontend and most of the schema for a Procter & Gamble ECRF application in Next.js + GraphQL. |
 | **Tembo** | Software Engineer | Built frontend features for a hosted Postgres platform. Moved data fetching to React Query and shipped auto-pause for idle instances. |
+| **Kinetic Vision** | Full Stack Engineer Intern | Worked across client apps on a Next.js, Apollo, Prisma, and Postgres stack. Built a breadcrumbs library and shipped a solo POC that landed a client. |
 | **Digital Scholarship Center** | Software Engineer Intern | Django features with Elasticsearch search, D3 / Three.js data viz, and a TensorFlow Serving sentiment API in production. |
 
 > At 7WEST I built a multi-tenant K-12 platform in TanStack Start and Convex,
