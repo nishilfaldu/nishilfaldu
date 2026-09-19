@@ -14,7 +14,7 @@ platform.
 
 ### What I'm looking for
 
-A product engineering role with ownership and a fast-moving team.
+A product engineering role with ownership and a nice team.
 
 ---
 
