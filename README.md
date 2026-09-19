@@ -1,20 +1,20 @@
 # Nishil Faldu
 
-> Full-stack software engineer with depth across mobile, web, backend, and data systems — from architecture to production.
+> Full-stack software engineer working across mobile, web, backend, and data systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishilfaldu.site-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://nishilfaldu.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nishilfaldu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishilfaldu)
 [![X](https://img.shields.io/badge/X-@FalduNishil-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/FalduNishil)
 
-I like picking up unfamiliar stacks and shipping them in production. Most of what
-I build starts from a blank repo and ends with real users — across founding
-engineering, agency client work, and a hosted-database platform.
+I like picking up unfamiliar stacks and shipping them. This is what I have worked
+on recently, from founding engineering and client work to a hosted Postgres
+platform.
 
 ---
 
 ### What I'm looking for
 
-A product engineering role where ownership is real and the pace is fast.
+A product engineering role with ownership and a fast-moving team.
 
 ---
 
@@ -22,18 +22,18 @@ A product engineering role where ownership is real and the pace is fast.
 
 | Where | Role | What I built |
 |-------|------|--------------|
-| **7WEST** | Founding Engineer | A multi-tenant K-12 academic operations platform and a React Native social app — both end-to-end, mostly solo. |
+| **7WEST** | Founding Engineer | Built a multi-tenant K-12 academic operations platform and a React Native social app. Worked across both products, mostly solo. |
 | **Kinetic Vision** | Lead Full-Stack Engineer (Contract) | Owned the frontend and most of the schema for a Procter & Gamble ECRF application in Next.js + GraphQL. |
-| **Tembo** | Software Engineer | Frontend for a hosted Postgres platform — migrated data fetching to React Query, shipped auto-pause for idle instances. |
+| **Tembo** | Software Engineer | Built frontend features for a hosted Postgres platform. Moved data fetching to React Query and shipped auto-pause for idle instances. |
 | **Digital Scholarship Center** | Software Engineer Intern | Django features with Elasticsearch search, D3 / Three.js data viz, and a TensorFlow Serving sentiment API in production. |
 
-> At 7WEST I architected and built a multi-tenant K-12 platform in TanStack Start
-> and Convex — role-aware portals for admins, teachers, students, and parents —
-> reaching **4 school pilots and 6,000 provisioned accounts** in under a month
-> from the first commit. The companion React Native app hit **500+ active users
-> across 15+ universities in 25 days**, built solo.
+> At 7WEST I built a multi-tenant K-12 platform in TanStack Start and Convex,
+> with role-aware portals for admins, teachers, students, and parents. It reached
+> **4 school pilots and 6,000 provisioned accounts** in under a month from the
+> first commit. I also built the companion React Native app, which reached **500+
+> active users across 15+ universities in 25 days**.
 
-**Education** — University of Cincinnati: M.Eng. in Computer Science (GPA 3.85)
+**Education** - University of Cincinnati: M.Eng. in Computer Science (GPA 3.85)
 and B.S. in Computer Science (GPA 3.98).
 
 ---
@@ -42,12 +42,12 @@ and B.S. in Computer Science (GPA 3.98).
 
 | Project | What it is |
 |---------|-----------|
-| [mcp-servers](https://github.com/nishilfaldu/mcp-servers) | A fleet of FastAPI tool servers (Canvas, Google Calendar, Outlook) that expose APIs as LLM-callable tools. |
+| [mcp-servers](https://github.com/nishilfaldu/mcp-servers) | FastAPI tool servers for Canvas, Google Calendar, and Outlook that expose APIs as LLM-callable tools. |
 | [easy-rag](https://github.com/nishilfaldu/easy-rag) | A self-serve platform for deploying custom RAG assistants over databases and files. |
 | [expo-push-notifications](https://github.com/nishilfaldu/expo-push-notifications) | An open-source NPM package for Expo push notification registration and routing. |
 | [cedar-lang](https://github.com/nishilfaldu/cedar-lang) | Cedar: a statically-typed language and its compiler, written from scratch in Go. |
 | [alterna-canvas](https://github.com/nishilfaldu/alterna-canvas) | A gamified Canvas LMS where keeping up with coursework grows a virtual garden. |
-| [coursework](https://github.com/nishilfaldu/coursework) | A curated, runnable collection of my CS coursework — security, devops, algorithms, data viz. |
+| [coursework](https://github.com/nishilfaldu/coursework) | A runnable collection of my CS coursework: security, devops, algorithms, and data viz. |
 
 ---
 
@@ -97,4 +97,4 @@ and B.S. in Computer Science (GPA 3.98).
 
 ---
 
-Open to conversations — if you're building something interesting, reach out.
+Open to conversations. If you're building something interesting, reach out.
